@@ -1,0 +1,19 @@
+.container{
+    
+    width: 80%;
+    margin: auto;
+    margin-top: 50px;
+
+}
+.item1,.item2,.item3,.item4{
+    width: 22.5%;
+    display: inline-block;
+    padding-right: 20px;
+
+}
+img{
+    width: 100%;
+}
+h3,p{
+    text-align: center;
+}
